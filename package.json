@@ -1,0 +1,11 @@
+{
+  "name": "bulma.io",
+  "version": "1.0.0",
+  "description": "Bulma.io",
+  "main": "index.js",
+  "scripts": {
+    "go": "live-server"
+  },
+  "author": "Jasur",
+  "license": "ISC"
+}
